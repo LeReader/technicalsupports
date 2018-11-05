@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+红豆小说书苑是一款免费小说阅读器，网罗华语网络经典流行小说，藏书丰厚，并对所有书籍做了精细分类，您想要的小说，在这里应有尽有。覆盖精品完本及在线连载小说，即时更新，即时阅读；免网络流量离线阅读功能；
 
-You can use the [editor on GitHub](https://github.com/LeReader/technicalsupports/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+包涵众多种类：BL耽美腐女美文 都市言情 玄幻魔法 武侠修真 穿越架空 科幻竞技 军事歷史 鬼话悬疑 文学名著 耽美同人 官场商战 游戏同人；
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+优质小说资源聚合，追书神器必备，海量图书资源，为网友们打造轻松、有趣、互动的娱乐化阅读体验。
+如有建议、反馈与我们沟通欢迎加群： QQ 群：342437975
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LeReader/technicalsupports/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+QQ技术支持：2740270782
